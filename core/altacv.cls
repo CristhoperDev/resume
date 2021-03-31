@@ -242,7 +242,7 @@
 \NewInfoField{linkedin}{\faLinkedIn}[https://linkedin.com/in/]
 \NewInfoField{github}{\faGitHub}[https://github.com/]
 \NewInfoField{orcid}{\faOrcid}[https://orcid.org/]
-\NewInfoField{location}{\faMapMarker}
+\NewInfoField{location}{\faMapMarkerAlt}
 
 % v1.2: Support for multiple photos
 \newlength{\altacv@photos@width}
@@ -329,7 +329,7 @@
     \smallskip
   }
   \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendarR\hspace{0.5em}#3}}}%
-  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
+  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{{\faMapMarkerAlt}\hspace{0.5em}#4}}}\par
   \medskip\normalsize
 }
 
