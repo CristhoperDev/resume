@@ -1,8 +1,8 @@
 {
-  "name": "@hadenlabs/resume-template",
+  "name": "@hadenlabs/resume",
   "version": "0.0.0",
-  "description": "resume-template for luismayta",
-  "repository": "ssh://git@github.com/hadenlabs/resume-template.git",
+  "description": "resume for luismayta",
+  "repository": "ssh://git@github.com/CristhoperDev/resume.git",
   "author": "Luis Mayta <slovacus@gmail.com>",
   "license": "MIT",
   "engines": {

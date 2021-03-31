@@ -12,9 +12,9 @@
 
   -->
 
-# resume-template
+# resume
 
-[![Lint](https://github.com/hadenlabs/resume-template/actions/workflows/lint.yml/badge.svg?branch=develop)](https://github.com/hadenlabs/resume-template/actions) [![Build](https://github.com/hadenlabs/resume-template/actions/workflows/resume.yml/badge.svg?branch=develop)](https://github.com/hadenlabs/resume-template/actions) [![License](https://img.shields.io/github/license/hadenlabs/resume-template.svg)](https://github.com/hadenlabs/resume-template) [![Issues](https://img.shields.io/github/issues/hadenlabs/resume-template.svg)](https://github.com/hadenlabs/resume-template) [![Latest Release](https://img.shields.io/github/release/hadenlabs/resume-template.svg)](https://github.com/hadenlabs/resume-template/releases)
+[![Lint](https://github.com/CristhoperDev/resume/actions/workflows/lint.yml/badge.svg?branch=develop)](https://github.com/CristhoperDev/resume/actions) [![Build](https://github.com/CristhoperDev/resume/actions/workflows/resume.yml/badge.svg?branch=develop)](https://github.com/CristhoperDev/resume/actions) [![License](https://img.shields.io/github/license/CristhoperDev/resume.svg)](https://github.com/CristhoperDev/resume) [![Issues](https://img.shields.io/github/issues/CristhoperDev/resume.svg)](https://github.com/CristhoperDev/resume) [![Latest Release](https://img.shields.io/github/release/CristhoperDev/resume.svg)](https://github.com/CristhoperDev/resume/releases)
 
 An elegant [LaTeX](https://www.latex-project.org/) resume template, compiled with [XeLaTeX](https://www.overleaf.com/learn/latex/XeLaTeX)
 

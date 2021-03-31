@@ -2,6 +2,6 @@
 
 ## Leads
 
-- Luis Mayta [@slovacus](https://github.com/luismayta)
+- Cristhoper Alvarez [@CristhoperDev](https://github.com/CristhoperDev)
 
 ## Contributors (chronological)

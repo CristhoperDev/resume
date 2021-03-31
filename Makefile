@@ -18,11 +18,11 @@ else
 	PIPENV_INSTALL:=
 endif
 
-TEAM := hadenlabs
+TEAM := CristhoperDev
 REPOSITORY_DOMAIN:=github.com
 REPOSITORY_OWNER:=${TEAM}
 AWS_VAULT ?= ${TEAM}
-PROJECT := resume-template
+PROJECT := resume
 
 PYTHON_VERSION=3.8.0
 NODE_VERSION=14.15.5
@@ -31,7 +31,7 @@ GIT_IGNORES:=python,node,go,latex
 GI:=gi
 
 # issues reviewers
-REVIEWERS?=luismayta
+REVIEWERS?=CristhoperDev
 
 # Configuration.
 SHELL ?=/bin/bash
